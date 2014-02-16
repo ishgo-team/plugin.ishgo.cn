@@ -1,0 +1,47 @@
+{
+	"tmall.com": [
+		{
+			"match": "detail.tmall.com",
+			"prefix": "http:\/\/p.yiqifa.com\/c?s=659dde47&w=624957&c=7057&i=27222&l=0&e=barbery&t=",
+			"redirect": "http://blog.ishgo.cn",
+			"name": "仙子宜岱CPS(天猫店)",
+			"commission": "6%-7.5%",
+			"actionId": "7057"
+		},
+		{
+			"match": "xzyd.tmall.com",
+			"prefix": "http:\/\/p.yiqifa.com\/c?s=659dde47&w=624957&c=7057&i=27222&l=0&e=barbery&t=",
+			"redirect": "",
+			"name": "仙子宜岱CPS(天猫店)",
+			"commission": "6%-7.5%",
+			"actionId": "7057"
+		},
+		{
+			"match": "ymall.tmall.com",
+			"prefix": "http:\/\/p.yiqifa.com\/c?s=c4c05667&w=624957&c=7072&i=27022&l=0&e=barbery&t=",
+			"redirect": "",
+			"name": "YMALL商城(天猫店)",
+			"commission": "10%",
+			"actionId": "7072"
+		},
+		{
+			
+			"match": "yonghengyanse.tmall.com",
+			"prefix": "http:\/\/p.yiqifa.com\/c?s=006913ee&w=624957&c=7046&i=26642&l=0&e=barbery&t=",
+			"redirect": "",
+			"name": "永恒颜色CPS (天猫店)",
+			"commission": "5%",
+			"actionId": "7046"
+		}
+	],
+	"jd.com": [
+		{
+			"match": "item.jd.com",
+			"prefix": "http:\/\/p.yiqifa.com\/c?s=659dde47&w=624957&c=7057&i=27222&l=0&e=barbery&t=",
+			"redirect": "",
+			"name": "京东",
+			"commission": "6%-7.5%",
+			"actionId": "9999"
+		}
+	]
+}
