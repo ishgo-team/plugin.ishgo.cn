@@ -1,1 +1,0 @@
-angular.module("EnteranceApp",["Global"]),angular.module("EnteranceApp").controller("MainController",["$scope","$location","LANUAGE",function(a,b,c){a.link=b.$$protocol+"://"+b.$$host+"/"+c[0];var d;-1!==(d=angular.inArray(navigator.language,c))&&(a.link=b.$$protocol+"://"+b.$$host+"/"+c[d]),window.location.href=a.link}]);
